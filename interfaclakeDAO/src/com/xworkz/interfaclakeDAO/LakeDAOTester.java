@@ -6,7 +6,7 @@ public class LakeDAOTester {
 		LakeDAOImplementor dao = new LakeDAOImplementor();
 		dao.save("btm");
 		dao.save("HRS");
-		dao.save("Halsur");
+		dao.save("Ulsur");
 		dao.save("Hebbal");
 
 		dao.printAllLakes();
